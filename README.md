@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**bikram320/bikram320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<!-- Profile README for bikram320 -->
+<!-- Profile README for bikram320 -->
 
 <h1 align="center">Hi 👋, I'm Bikram</h1>
 <h3 align="center">A passionate developer and open-source enthusiast</h3>
@@ -23,8 +13,7 @@ Here are some ideas to get you started:
 
 - 🚀 I love building things with code and contributing to open source.
 - 🌱 Currently learning **Spring Boot**.
-- 💬 Ask me about **JavaScript, Python, Java, SQL, GitHub Actions, or anything tech!**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bikram320/)
+- 💬 Ask me about **Java, Python, SQL, GitHub Actions, or anything tech!**
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess!
 
 ---
@@ -41,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35" />
 </p>
 
-- **Languages:** C, HTML, CSS, JavaScript, Python, Java  
+- **Languages:** C, HTML, CSS, Java, Python, JavaScript(Basic)
 - **Currently learning:** Spring Boot
 
 ---
@@ -72,6 +61,14 @@ Here are some ideas to get you started:
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bikram320&theme=radical&margin-w=15&margin-h=15" alt="github trophies"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -85,14 +82,15 @@ Here are some ideas to get you started:
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/bikram320" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bikram320 linkedin" height="30" width="30" />
-  </a>
-  <a href="mailto:bikram320@gmail.com">
+  
+  <a href="mailto:bkbikram727@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="bikram320 gmail" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/bikram320" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="bikram320 twitter" height="30" width="30" />
+  <a href="https://www.facebook.com/bikram73320" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="bikram320 facebook" height="30" width="30" />
+  </a>
+  <a href="https://www.instagram.com/bikram73320/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="bikram320 instagram" height="30" width="30" />
   </a>
 </p>
 
@@ -108,8 +106,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/bikram320/bikram320/raw/main/wave.gif" width="200"/>
 </p>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
