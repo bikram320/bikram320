@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Bikram</h1>
 <h3 align="center">A passionate developer and open-source enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bikram320&label=Profile%20views&color=0e75b6&style=flat" alt="bikram320" />
-</p>
 
 ---
 
