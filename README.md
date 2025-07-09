@@ -57,25 +57,6 @@
 - **Development & Collaboration:** Postman, Git, GitHub
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bikram320&theme=radical&margin-w=15&margin-h=15" alt="github trophies"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikram320&show_icons=true&theme=radical" alt="bikram320 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikram320&theme=radical" alt="bikram320 streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram320&layout=compact&theme=radical" alt="top languages" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
