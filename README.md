@@ -28,7 +28,7 @@
 </p>
 
 - **Languages:** C, HTML, CSS, Java, Python, JavaScript(Basic)
-- **Currently learning:** Spring Boot
+- **Framework:** Spring Boot , Flask
 
 ---
 
@@ -77,7 +77,6 @@
 ### 🎯 Fun Interactives
 
 - 🏆 Check out my [GitHub trophies!](https://github-profile-trophy.vercel.app/?username=bikram320&theme=radical)
-- 💡 Curious fact: You can customize this README any way you like!
 
 ---
 
