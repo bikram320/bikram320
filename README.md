@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35" />
 </p>
 
-- **Languages:** C, HTML, CSS, Java, Python, JavaScript(Basic)
+- **Languages:** C, HTML, CSS, Java, Python, JavaScript
 - **Framework:** Spring Boot , Flask
 
 ---
