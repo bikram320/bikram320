@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 I love building things with code and contributing to open source.
-- 🌱 Currently learning **Spring Boot**.
+-  Currently learning **React JS**.
 - 💬 Ask me about **Java, Python, SQL, GitHub Actions, or anything tech!**
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess!
 
