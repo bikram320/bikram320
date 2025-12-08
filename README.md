@@ -3,13 +3,12 @@
 <h1 align="center">Hi 👋, I'm Bikram</h1>
 <h3 align="center">A passionate developer and open-source enthusiast</h3>
 
-
 ---
 
 ### 👨‍💻 About Me
 
 - 🚀 I love building things with code and contributing to open source.
--  Currently learning **React JS**.
+- 🌱 Currently learning **React.js**.
 - 💬 Ask me about **Java, Python, SQL, GitHub Actions, or anything tech!**
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess!
 
@@ -27,8 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35" />
 </p>
 
-- **Languages:** C, HTML, CSS, Java, Python, JavaScript
-- **Framework:** Spring Boot , Flask
+- **Languages:** C, HTML, CSS, Java, Python, JavaScript  
+- **Frameworks:** Spring Boot, Flask  
 
 ---
 
@@ -36,10 +35,11 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" />
-  <img src="https://img.shields.io/badge/SQL-blue?logo=sqlite" alt="SQL" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" />
 </p>
 
-- **SQL, MySQL**
+- **SQL, MySQL, PostgreSQL, MongoDB**
 
 ---
 
@@ -54,13 +54,13 @@
 </p>
 
 - **IDEs/Editors:** VS Code, IntelliJ IDEA Ultimate  
-- **Development & Collaboration:** Postman, Git, GitHub
+- **Development & Collaboration:** Postman, Git, GitHub  
 
 ---
+
 ### 📫 Connect with me
 
 <p align="left">
-  
   <a href="mailto:bkbikram727@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="bikram320 gmail" height="30" width="30" />
   </a>
