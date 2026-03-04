@@ -1,64 +1,96 @@
-<!-- Profile README for bikram320 -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Bikram</h1>
-<h3 align="center">A passionate developer and open-source enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Bikram Bishwokarma</h1>
+
+<h3 align="center">
+💻 Backend Developer |  📊 Exploring Data Science & Machine Learning
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Engineer+with+Java+%26+SpringBoot;Building+Scalable+APIs+and+Systems;Exploring+Machine+Learning;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🚀 I love building things with code and contributing to open source.
-- 🌱 Currently learning **React.js**.
+- 🚀 Backend developer focused on scalable and efficient systems  
+- 🤖 Interested in Machine Learning & intelligent systems  
+- ⚙️ Strong in **Java,Python , Data Analysis , Data Visualization,  C#, Spring Boot**  
+- 📊 Working with **NumPy, Pandas & Matplotlib**  
+- 🌱 Currently learning **Scikit-Learn**  
 - 💬 Ask me about **Java, Python, SQL, GitHub Actions, or anything tech!**
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess!
-
 ---
 
-### 🛠️ Programming Skills
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,c,js,html,css,sql" />
 </p>
-
-- **Languages:** C, HTML, CSS, Java, Python, JavaScript  
-- **Frameworks:** Spring Boot, Flask  
 
 ---
 
-### 🗄️ Databases
+### ⚙️ Backend & Frameworks
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,flask" />
 </p>
 
-- **SQL, MySQL, PostgreSQL, MongoDB**
+- Spring Boot  
+- ASP.NET  
+- .NET Framework  
+- Flask  
+- REST API Development  
 
 ---
 
-### ⚙️ Tools & Technologies
+### 📊 Data Science & Machine Learning
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" />
 </p>
 
-- **IDEs/Editors:** VS Code, IntelliJ IDEA Ultimate  
-- **Development & Collaboration:** Postman, Git, GitHub  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-Learn (Learning)
 
 ---
 
-### 📫 Connect with me
+### 🗄️ Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Redis  
+
+---
+
+### 🧰 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48"/>
+</p>
+
+- Git & GitHub  
+- VS Code  
+- IntelliJ IDEA  
+- Postman  
+
+---
+
+
+
+## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:bkbikram727@gmail.com">
@@ -72,14 +104,7 @@
   </a>
 </p>
 
----
-
-### 🎯 Fun Interactives
-
-- 🏆 Check out my [GitHub trophies!](https://github-profile-trophy.vercel.app/?username=bikram320&theme=radical)
 
 ---
 
-<p align="center">
-  <img src="https://github.com/bikram320/bikram320/raw/main/wave.gif" width="200"/>
-</p>
+<h3 align="center">⚡ Code • Learn • Build • Improve ⚡</h3>
