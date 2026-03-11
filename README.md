@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bikram Bishwokarma</h1>
 
 <h3 align="center">
-💻 Backend Developer |  📊 Exploring Data Science & Machine Learning
+💻 Java Backend Developer |  📊 Exploring Data Science & Machine Learning
 </h3>
 
 <p align="center">
