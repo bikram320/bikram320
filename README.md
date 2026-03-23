@@ -18,7 +18,6 @@
 - 🤖 Interested in Machine Learning & intelligent systems  
 - ⚙️ Strong in **Java,Python , Data Analysis , Data Visualization,  C#, Spring Boot**  
 - 📊 Working with **NumPy, Pandas & Matplotlib**  
-- 🌱 Currently learning **Scikit-Learn**  
 - 💬 Ask me about **Java, Python, SQL, GitHub Actions, or anything tech!**
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess!
 ---
@@ -47,20 +46,18 @@
 
 ---
 
-### 📊 Data Science & Machine Learning
+### 📊 Data Science 
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" />
 </p>
 
 - NumPy  
 - Pandas  
 - Matplotlib  
-- Scikit-Learn (Learning)
 
 ---
 
